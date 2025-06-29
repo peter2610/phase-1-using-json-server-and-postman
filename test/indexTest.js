@@ -10,3 +10,4 @@ describe("", () => {
     });
   });
 });
+// Updated index.js to demonstrate JSON Server usage
